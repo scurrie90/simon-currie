@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hello",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,15 +8,15 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Simon Currie",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "Digital Creative. ",
+    "highlight": "Software Engineer. ",
+    "suffix": "Entrepreneur."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Feel free to look around and visit my socials to learn what I'm about.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Devto", "Github", "Mail"],
     "showIcons": false
   }
 }
