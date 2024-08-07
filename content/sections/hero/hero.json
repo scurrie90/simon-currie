@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm Simon Currie",
+  "title": "I'm Simon Currie.",
   "subtitle": {
-    "prefix": "Digital Creative. ",
+    "prefix": "Writer. ",
     "highlight": "Software Engineer. ",
     "suffix": "Entrepreneur."
   },
-  "description": "Feel free to look around and visit my socials to learn what I'm about.",
+  "description": "Welcome to my portfolio and personal blog. Feel free to browse around to get to know me!",
   "socialProfiles": {
     "from": ["LinkedIn", "Devto", "Github", "Mail"],
     "showIcons": false
