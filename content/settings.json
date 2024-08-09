@@ -30,6 +30,7 @@
         "url": "https://aritech-solutions.com"
       },
       "footer": [
+        { "label": "Site Info", "url": "/information" },
         { "label": "Privacy", "url": "/privacy" },
         { "label": "Aritech", "url": "https://aritech-solutions.com" }
       ]
