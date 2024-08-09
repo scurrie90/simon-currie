@@ -55,3 +55,4 @@ export function SkillsSection(props: PageSection): React.ReactElement {
       </Animation>
   );
 }
+

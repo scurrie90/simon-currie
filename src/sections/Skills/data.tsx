@@ -1,5 +1,6 @@
 import { graphql, useStaticQuery } from 'gatsby';
-import { ImageObject } from 'gatsby-theme-portfolio-minimal/src/types';
+import { ImageObject } from 'gatsby-theme-portfolio-minimal/src/types'
+
 
 interface SkillsSectionQueryResult {
     allSkillsJson: {
@@ -18,6 +19,7 @@ interface SkillsSectionQueryResult {
 }
 
 export const useLocalDataSource = (): SkillsSectionQueryResult => {
+    
     return useStaticQuery(graphql`
         query SkillsSectionQuery {
             allSkillsJson {
