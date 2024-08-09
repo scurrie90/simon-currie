@@ -22,7 +22,7 @@
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
-        { "label": "Resume", "url": "../static/resume.pdf" }
+        { "label": "Resume", "url": "/resume.pdf" }
       ],
       "ctaButton": {
         "openNewTab": true,
