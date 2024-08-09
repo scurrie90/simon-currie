@@ -7,9 +7,16 @@ import {
   InterestsSection,
   Page,
   ProjectsSection,
-  Seo
+  Seo,
+  Section,
+  Animation,
+  Button, ButtonType,
+  GatsbyImage,
+  PageSection, 
+  useLocalDataSource
 } from "gatsby-theme-portfolio-minimal";
-// import Skills from 
+
+import { SkillsSection } from "../sections/Skills";
 export default function IndexPage() {
   return (
     <>
@@ -17,8 +24,8 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Latest Blog Posts" sources={['Blog']} />
-        <AboutSection sectionId="about" heading="About Me" />      
-        <InterestsSection sectionId="skills" heading="What I Do" />
+        <AboutSection sectionId="about" heading="About Me" /> 
+        <SkillsSection sectionId="skills" heading="What I do" />        
         <InterestsSection sectionId="interests" heading="Hobbies and Interests" />
         <ProjectsSection sectionId="projects" heading="Recent Projects" />
         <ContactSection sectionId="contact" heading="Contact Me" />
