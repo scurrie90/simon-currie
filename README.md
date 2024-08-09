@@ -4,10 +4,10 @@
 ## 1.0 Outstanding to do before Deploy
 
 1. Get images
+   -> Some from camera, some stock, some emojis for the buttons. Aritech Logo
 2. Edit and update About Me
-3. Hobbies Section
-   -> Things I do for fun vs things I do "because they're interesting"
-   
+3. Fix Hobbies and interests sections
+
 #### A portfolio/blog website using Gatsby/React
 
 This website is live at simon-currie.com. If you like it, clone the repo and feel free to tweak to your needs, I certainly did the same using · [Portfolio Minimal Theme on Github](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal). 

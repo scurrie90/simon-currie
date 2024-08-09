@@ -1,0 +1,65 @@
+{
+    "hobbies": [
+      {
+        "label": "Web and Mobile Application Development",
+        "image": {
+          "src": "../../images/joystick copy.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Game Development",
+        "image": {
+          "src": "../../images/notebook.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "System Architecture",
+        "image": {
+          "src": "../../images/nail-polish.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Project Management",
+        "image": {
+          "src": "../../images/medium.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Business Analysis",
+        "image": {
+          "src": "../../images/gem-stone.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Copywriting",
+        "image": {
+          "src": "../../images/mobile-phone.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Search Engine Optimization",
+        "image": {
+          "src": "../../images/gatsby.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Branding and Marketing",
+        "image": {
+          "src": "../../images/high-voltage.png",
+          "alt": ""
+        }
+      }
+    ],
+    "button": {
+      "visible": true,
+      "label": "+ Load More",
+      "initiallyShownHobbies": 5
+    }
+  }

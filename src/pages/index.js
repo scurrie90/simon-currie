@@ -11,6 +11,8 @@ import {
 } from "gatsby-theme-portfolio-minimal";
 
 import { SkillsSection } from "../sections/Skills";
+import { HobbiesSection } from "../sections/Hobbies";
+
 export default function IndexPage() {
   return (
     <>
@@ -19,8 +21,9 @@ export default function IndexPage() {
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Latest Blog Posts" sources={['Blog']} />
         <AboutSection sectionId="about" heading="About Me" /> 
-        <SkillsSection sectionId="skills" heading="What I do" />        
-        <InterestsSection sectionId="interests" heading="Hobbies and Interests" />
+        <SkillsSection sectionId="skills" heading="What I Do" />        
+        <InterestsSection sectionId="interests" heading= "What I'm Passionate About" />
+        <HobbiesSection sectionId="hobbies" heading="How I Relax" />
         <ProjectsSection sectionId="projects" heading="Recent Projects" />
         <ContactSection sectionId="contact" heading="Contact Me" />
       </Page>
