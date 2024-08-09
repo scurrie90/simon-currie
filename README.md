@@ -7,6 +7,8 @@
    -> Some from camera, some stock, some emojis for the buttons. Aritech Logo
 2. Edit and update About Me
 3. Fix Hobbies and interests sections
+4. Add custom fonts/styles
+5. Finish two outstanding articles
 
 #### A portfolio/blog website using Gatsby/React
 
