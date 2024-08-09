@@ -7,13 +7,7 @@ import {
   InterestsSection,
   Page,
   ProjectsSection,
-  Seo,
-  Section,
-  Animation,
-  Button, ButtonType,
-  GatsbyImage,
-  PageSection, 
-  useLocalDataSource
+  Seo
 } from "gatsby-theme-portfolio-minimal";
 
 import { SkillsSection } from "../sections/Skills";

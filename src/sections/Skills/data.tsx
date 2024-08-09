@@ -9,7 +9,7 @@ interface SkillsSectionQueryResult {
                 label: string;
                 visible: boolean;
             };
-            interests: {
+            skills: {
                 image: ImageObject;
                 label: string;
             }[];
@@ -27,7 +27,7 @@ export const useLocalDataSource = (): SkillsSectionQueryResult => {
                         label
                         visible
                     }
-                    interests {
+                    skills {
                         image {
                             alt
                             src {
