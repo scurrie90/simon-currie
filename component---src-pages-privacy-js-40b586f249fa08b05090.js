@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksimon_currie_portfolio_site=self.webpackChunksimon_currie_portfolio_site||[]).push([[745],{1971:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var i=n(6540),r=n(5520);function c(){return i.createElement(i.Fragment,null,i.createElement(r.G$,{title:"Privacy Policy",useTitleTemplate:!0,noIndex:!0}),i.createElement(r.YW,null,i.createElement(r.v3,{sectionId:"privacy",heading:"Privacy Policy"})))}}}]);
+//# sourceMappingURL=component---src-pages-privacy-js-40b586f249fa08b05090.js.map

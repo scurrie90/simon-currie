@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://simon-currie.com/sitemap-index.xml
+Host: https://simon-currie.com
