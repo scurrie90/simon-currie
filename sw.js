@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-3c58d5bdaf3ff10364d0.js"
+    "url": "webpack-runtime-3e3011e001121265a7c6.js"
   },
   {
     "url": "styles.7c3a09c7d96e62286b55.css"
@@ -36,15 +36,15 @@ self.__precacheManifest = [
     "url": "framework-1a81dd6393678631b9ac.js"
   },
   {
-    "url": "app-9c9e1f912f397063dcc1.js"
+    "url": "app-e8a640bcac54e3aaf478.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "2e6a8d02ce351b62a62edb8138c163f3"
+    "revision": "6d33aa8ed06f8c13edd8bd964cb692ca"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "335100914be9277cdce27a25d1afdfb9"
+    "revision": "98ef033e421255e7ac83748676027b24"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -149,12 +149,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^`), ``)
+  pathname = pathname.replace(new RegExp(`^/simon-currie`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-9c9e1f912f397063dcc1.js`))) {
+  if (!resources || !(await caches.match(`/simon-currie/app-e8a640bcac54e3aaf478.js`))) {
     return await fetch(event.request)
   }
 
@@ -167,7 +167,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/simon-currie/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
