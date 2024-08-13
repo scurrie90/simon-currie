@@ -1,11 +1,11 @@
 ---
-title: "Xenophobic Nimbys"
-description: "NIMBY culture is the reason we are in a housing crisis. It's also racist."
+title: "Xenophobic NIMBYs"
+description: "A combination of Xenophobia and NIMBYism overcomplicates Vancouver's Housing Crisis."
 date: "2024-08-09"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-  alt: "Xenophobic NIMBY's are killing this city."
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  src: "../../images/vancouverbeach.jpg"
+  alt: "Xenophobia is Killing Vancouver."
+  caption: 'Kitsilano Beach.'
 categories:
   - "Vancouver"
   - "Reblog"
@@ -19,6 +19,7 @@ keywords:
   - "Density"
   - "Xenophobia"
   - "Blog"
+  - "Housing Crisis"
 ---
 
 # Xenophobic Nimbys are Ruining Vancouver

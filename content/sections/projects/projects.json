@@ -29,7 +29,7 @@
       "description": "Cafe Zen on Yew St is a small business located in the heart of Kitsilano. The previous web developer had over engineered the website so I converted it to a static HTML site. The design choices are the client's.",
       "tags": ["Website", "HTML", "CSS", "jQuery"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/zencafe.png",
         "alt": "Kitsilano Brunch Spot"
       },
       "links": [

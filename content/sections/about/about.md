@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/ari.jpg"
 imageAlt: "About Simon Currie"
 ---
 
@@ -15,6 +15,4 @@ There will likely be some cross-posting, but as Aritech gets up and running, tec
 
 My 9 - 5 is fairly boring government work, but my freelance side is where I get to do interesting stuff while giving back. My clients tend to be individuals, small businesses and non-profits - my path to this point was not tyical: I spent my childhood and teenage years in and out of foster homes and was diagnosed with ADHD and Autism in my 30s, so my work choices are heavily informed by my lived experience. As such, while I will blog about tech and digital marketing and the like, over time that stuff will move to aritech-solutions.com. This will be a place where I write about everything else, ranging from the Canucks to Mental Health Awareness to Neurodivergence to Philosophy and Politics. Mostly I'll probably go on little fun rants.
 
-On the business side: I will always work with non-profit clients to find a solution within their budget, including providing discounts. I believe its a fundamental clause of the social contract to give back, especially given where I come from (but from a theoretical perspective as well.)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+On the business side: I will always work with non-profit clients to find a solution within their budget, including providing discounts. I believe its a fundamental clause of the social contract to give back, especially given where I come from (but from a theoretical perspective as well.

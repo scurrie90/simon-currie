@@ -6,8 +6,8 @@
     "titleTemplate": "%s · Portfolio Personal Blog",
     "description": "Simon Currie's personal blog, portfolio, and web development.",
     "author": "Simon Currie",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "Simon Currie is an engineer at Fujitsu as well as the founder of Aritech.",
+    "avatar": "../content/images/headshot.jpg",
+    "bio": "Simon Currie is an engineer at Fujitsu and the founder of Aritech. He resides in Vancouver, BC with his dog Ari.",
     "social": {
       "github": "https://github.com/scurrie90",
       "devto": "https://dev.to/simon_currie",
@@ -21,7 +21,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Projects", "url": "/#projects" },
         { "label": "Resume", "url": "/resume.pdf" }
       ],
       "ctaButton": {

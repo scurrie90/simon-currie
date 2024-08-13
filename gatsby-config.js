@@ -6,7 +6,7 @@ module.exports = {
         siteUrl: "https://simon-currie.com", // Used for sitemap generation
         skipContentDirectorySetup: true,
         manifestSettings: {
-          favicon: "./content/images/favicon.png", // Path is relative to the root
+          favicon: "./content/images/aritech2.png", // Path is relative to the root
           siteName: "Simon Currie", // Used in manifest.json
           shortName: "Portfolio", // Used in manifest.json
           startUrl: "/", // Used in manifest.json

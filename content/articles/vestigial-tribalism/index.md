@@ -3,9 +3,9 @@ title: "Vestigial Tribalism and Sports."
 description: "We used to go to war. Now we yell about sports ball!"
 date: "2024-07-31"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
+  src: ""
   alt: "Vestigial Tribalism"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  caption: ''
 categories:
   - "Sports"
   - "Musings"

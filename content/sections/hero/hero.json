@@ -1,8 +1,8 @@
 {
   "intro": "Hello",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/headshot.jpg",
+    "alt": "Simon Currie"
   },
   "image": {
     "src": "../../images/waving-hand.png",

@@ -3,8 +3,8 @@
   "email": "simon@simon-currie.com",
   "description": "Please reach out with any inquiries, comments, questions or concerns.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/aritech.png",
+    "alt": "Aritech Logo"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
