@@ -1,65 +1,65 @@
 {
   "interests": [
     {
-      "label": "Skiing",
+      "label": "📜 Philosophy",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Golf",
+      "label": "⚖️ Politics",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Chess",
+      "label": "🧠 Mental Health Awareness",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Poker",
+      "label": "🧮 Mathematics",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Math",
+      "label": "🏙️ Urban Planning",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Live Music",
+      "label": "🌐 Language & Linguistics",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Theatre, Improv and Stand up",
+      "label": "🎭 Arts & Culture",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Pub Trivia",
+      "label": "🌱 Environmentalism & Climate Change",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Vancouver Canucks",
+      "label": "🧪 Science & Technology",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "",
         "alt": ""
       }
     }

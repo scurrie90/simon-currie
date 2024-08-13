@@ -4,6 +4,7 @@ module.exports = {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
         siteUrl: "https://simon-currie.com", // Used for sitemap generation
+        skipContentDirectorySetup: true,
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
           siteName: "Simon Currie", // Used in manifest.json
@@ -24,6 +25,7 @@ module.exports = {
         //     anonymize: true, // Default true
         //     environments: ["production", "development"] // Default ["production"]
         // }
+        
       },
     },
   ],

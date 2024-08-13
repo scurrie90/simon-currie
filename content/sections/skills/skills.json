@@ -3,40 +3,47 @@
     {
       "label": "Web and Mobile Application Development",
       "image": {
-        "src": "../../images/joystick copy.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "Game Development",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "System Architecture",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Digital Infrastructure",
+      "image": {
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "Project Management",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "",
         "alt": ""
       }
     },
     {
       "label": "Business Analysis",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Copywriting",
+      "label": "Copywriting and Editing",
       "image": {
         "src": "../../images/mobile-phone.png",
         "alt": ""

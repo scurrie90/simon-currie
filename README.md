@@ -4,11 +4,10 @@
 ## 1.0 Outstanding to do before Deploy
 
 1. Get images
-   -> Some from camera, some stock, some emojis for the buttons. Aritech Logo
-2. Edit and update About Me
-3. Fix Hobbies and interests sections
-4. Add custom fonts/styles
-5. Finish two outstanding articles
+   -> Some from camera, some stock, some emojis for the buttons. Aritech Logo.
+2. Finish About This Site section
+3. Finish Projects section
+
 
 #### A portfolio/blog website using Gatsby/React
 
@@ -68,8 +67,13 @@ Thanks a lot for using this starter! 💪
 Simon Currie – [Personal Site](https://simon-currie.com) Powered By: [Aritech](https://aritech-solutions.com)
 
 
-## Future Additions
+## Future Additions/ To Do
 
+#### ASAP:
+1. Add custom fonts/styles
+2. Finish two outstanding articles
+
+#### In future releases
 * Headless CMS - serve up blog posts in real time
    -> will need authentication to access admin page
    -> DecapCMS?

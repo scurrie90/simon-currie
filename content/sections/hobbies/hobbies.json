@@ -1,65 +1,72 @@
 {
-    "hobbies": [
-      {
-        "label": "Web and Mobile Application Development",
-        "image": {
-          "src": "../../images/joystick copy.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Game Development",
-        "image": {
-          "src": "../../images/notebook.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "System Architecture",
-        "image": {
-          "src": "../../images/nail-polish.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Project Management",
-        "image": {
-          "src": "../../images/medium.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Business Analysis",
-        "image": {
-          "src": "../../images/gem-stone.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Copywriting",
-        "image": {
-          "src": "../../images/mobile-phone.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Search Engine Optimization",
-        "image": {
-          "src": "../../images/gatsby.png",
-          "alt": ""
-        }
-      },
-      {
-        "label": "Branding and Marketing",
-        "image": {
-          "src": "../../images/high-voltage.png",
-          "alt": ""
-        }
+  "hobbies": [
+    {
+      "label": "♟️ Chess",
+      "image": {
+        "src": "",
+        "alt": ""
       }
-    ],
-    "button": {
-      "visible": true,
-      "label": "+ Load More",
-      "initiallyShownHobbies": 5
+    },
+    {
+      "label": "🏌️ Golf",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "🤓 Pub Trivia",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "🏒 Vancouver Canucks & Hockey",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "🎼 Live Music",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "📖 Writing - Long & Short Form",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "🎿 Skiing",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "🐕 Dog Parks & Beach Days",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "🎮 Video Games",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
     }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownHobbies": 5
   }
+}
